@@ -3,7 +3,7 @@
 # @Author: Ivan Zemlyaniy aka shaolinfm
 # @Date:   2015-04-27 16:46:53
 # @Last Modified by:   shaolinfm
-# @Last Modified time: 2015-06-20 01:25:33
+# @Last Modified time: 2015-06-25 17:04:21
 
 """
 This is simmple script for updating all Python distributives in System
